@@ -1110,12 +1110,5 @@ If this value is too low or too high for your needs, you can tune it by setting:
 ## Mascot
 [![eierlegende Wollmilchsau](./mascot.svg)](https://en.wiktionary.org/wiki/eierlegende_Wollmilchsau) Meet Hashie's "offical" mascot, the [eierlegende Wollmilchsau](https://en.wiktionary.org/wiki/eierlegende_Wollmilchsau)!
 
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md)
-
 ## Copyright
-
-Copyright (c) 2009-2020 [Intridea, Inc.](http://intridea.com), and [contributors](https://github.com/hashie/hashie/graphs/contributors).
-
 MIT License. See [LICENSE](LICENSE) for details.
